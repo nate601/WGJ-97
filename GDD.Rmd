@@ -1,0 +1,65 @@
+---
+title: "Game Design Document"
+author: "Nathan Button"
+date: "5/18/2019"
+output: html_document
+---
+
+
+## Overview
+### Theme / Setting / Genre
+#### Theme
+"Strange Garden"
+
+#### Setting
+A rustic garden, but then an alien space ship comes by.
+
+#### Genre
+Harvesting garden game + combine crafting game
+
+### Core Gameplay Mechanics (Brief)
+1. Plant seeds
+2. Water seeds daily until harvest time
+3. Harvest Plants to Sell
+
+Combine two plants to create new plant with aspects of the two original plants
+
+
+### Targetted Platforms
+Windows / OpenGL
+
+### Monetization Model
+N/A
+
+## Project Scope
+
+
+### Game Time Scale
+Must be completed by the end of the weekly game jam `2019/05/23`
+
+
+## Influences
+### Stardew Valley
+I am stealing the harvesting and watering abilities from games such as stardew valley, rune factory, and harvest moon.  
+
+### Space Station 13
+I am stealing the modifiers and plant genes from the /tg/station xenoflora.
+
+## Elevator Pitch
+The game is going to be Stardew Valley, but with alien plants.
+
+## Project Description
+### Brief
+### Detailed
+## Core Gameplay Mechanics (Detailed)
+## Story and Gameplay
+### Story
+### Gameplay
+#### Brief
+#### Detailed
+## Assets
+### Textures
+### Scripts
+### Sounds
+### Animation
+## Schedule
